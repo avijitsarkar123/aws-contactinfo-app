@@ -1,2 +1,12 @@
-.settings
+.settings/
 .project
+.springBeans
+.classpath
+.DS_Store
+.svn/
+maven-eclipse.xml
+*.log
+*.out
+logging.log*
+*.bkp
+/target/
