@@ -1,0 +1,5 @@
+com/avijit/poc/aws/springboot/contactinfo/ContactInfoApplication.class
+com/avijit/poc/aws/springboot/contactinfo/DetailedResponse.class
+com/avijit/poc/aws/springboot/contactinfo/Contact.class
+com/avijit/poc/aws/springboot/contactinfo/ContactRepository.class
+com/avijit/poc/aws/springboot/contactinfo/ContactRestController.class
