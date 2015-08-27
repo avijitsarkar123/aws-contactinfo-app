@@ -9,4 +9,3 @@ maven-eclipse.xml
 *.out
 logging.log*
 *.bkp
-/target/
